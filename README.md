@@ -10,5 +10,4 @@
 
 4- create a database
     database name- assign
-
     import the users.sql
