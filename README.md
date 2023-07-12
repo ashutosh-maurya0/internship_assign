@@ -1,7 +1,7 @@
 # internship_assign
 
-1-Download Xampp Server
-  https://sourceforge.net/projects/xampp/files/
+1- Download Xampp Server
+     https://sourceforge.net/projects/xampp/files/
 
 2- make a folder in htdocs
     folder name- assign 
@@ -10,4 +10,5 @@
 
 4- create a database
     database name- assign
-    import the users.sql
+
+5- import the users.sql
